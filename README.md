@@ -62,7 +62,7 @@ class VishnuKumar:
     name:     str = "Vishnu Kumar"
     role:     str = "AI & ML Engineer 🤖"
     location: str = "India 🇮🇳"
-    email:    str = "vishnu9027872285@gmail.com"
+    email:    str = "dev.vishnu.git@gmail.com"
     pronouns: str = "He / Him"
 
     currently_building: str = "🚀 Production MLOps Pipeline"
