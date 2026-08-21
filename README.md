@@ -99,7 +99,7 @@ print(f"Hello World! I'm {me.name} 👋")
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-vishnu9027872285%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:dev.vishnu.git@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-dev.vishnu.git%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:dev.vishnu.git@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117)](https://twitter.com)
 [![Discord](https://img.shields.io/badge/Discord-Chat-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com)
